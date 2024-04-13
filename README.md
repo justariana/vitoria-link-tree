@@ -1,2 +1,2 @@
 # vitoria-link-tree
- Meu primeiro projeto usando HTML, CSS e um pouco de Javascript.
+ Meu primeiro projeto simples de Link Tree usando HTMl, CSS e Javascript. A parte do Javascript foi feita pelo meu amigo Luan Souza: https://github.com/luanfsouza .
