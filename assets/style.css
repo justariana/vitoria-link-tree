@@ -3,10 +3,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;600;700&display=swap');
 
 :root {
-    --background-color1: #E01180;
-    --background-color2: #B511E0;
-    --background-color3: #0FA9D9;
-    --background-color4: #E9Bf11;
+    --background-color1: #1EE911;
+    --background-color2: #E9BF11;
+    --background-color3: #0F6AD9;
+    --background-color4: #0FD983;
     --fill-link: #7CD3CC;
     --others: #12081A;
     --hover: #E01180;
