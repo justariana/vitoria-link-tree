@@ -8,8 +8,8 @@ colorOneButton.addEventListener("click", () => {
     corpo.style.backgroundColor = "#0F6AD9";
   });
 colorTwoButton.addEventListener("click", () => {
-    corpo.style.backgroundColor = "#1EE911";
+    corpo.style.backgroundColor = "#E01180";
   });
 colorThreeButton.addEventListener("click", () => {
-    corpo.style.backgroundColor = "#E9BF11";
+    corpo.style.backgroundColor = "#0FA9D9";
   });
